@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicApp</string>
+    <string name="title_activity_login">MusicApp</string>
+    <string name="bienvenido">Welcome!</string>
+    <string name="registrarse">Sign up</string>
+    <string name="iniciar_sesi_n">Log in</string>
+    <string name="reg_strate">Sign in</string>
+    <string name="nombre">Name</string>
+    <string name="apellidos">Surname</string>
+    <string name="nombre_de_usuario">Username</string>
+    <string name="contrase_a">Password</string>
+    <string name="email">Email</string>
+    <string name="reg_strate2">Sign in</string>
+    <string name="login">Log in</string>
+    <string name="nombre_de_usuario2">Username</string>
+    <string name="contrase_a2">Password</string>
+    <string name="iniciar_sesi_n3">Log in</string>
+    <string name="nombre4">Name:</string>
+    <string name="apellidos4">Surname:</string>
+    <string name="nombre_de_usuario4">Username:</string>
+    <string name="contrase_a4">Password:</string>
+    <string name="email4">Email:</string>
+    <string name="su_informaci_n">Your information</string>
+    <string name="perfil_de_usuario">User profile</string>
+    <string name="su_canci_n_favorita">Your favourite song</string>
+    <string name="stop">STOP</string>
+    <string name="play">PLAY</string>
+    <string name="textview" translatable="false">Textview</string>
+</resources>
